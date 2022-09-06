@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anik-Sarkar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning git and github
+- 🌱 I’m currently learning tailwind CSS
 - 💞️ I’m looking to collaborate on a team
 - 📫 How to reach me - https://www.linkedin.com/in/anik-sarkar-nits/
 
