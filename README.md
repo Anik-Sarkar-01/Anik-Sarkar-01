@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anik-Sarkar-01&show_icons=true&count_private=true&theme=dark" alt="Anik-Sarkar-01" />
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beinganik.87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anik-sarkar-nits) 
 
