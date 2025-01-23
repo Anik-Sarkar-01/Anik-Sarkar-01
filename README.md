@@ -12,6 +12,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Anik-Sarkar-01&icon=7&color=12)](https://visitcount.itsvg.in)
-
 
