@@ -8,7 +8,7 @@ Hello there! I'm Anik Sarkar, a passionate Frontend Developer
 ***
 
 ### 🚀 What I'm Currently Doing
-***
+___
 <!-- 💻 Building RateX, a review platform inspired by Trustpilot. <br>
 🔧 Exploring Node.js for backend development.<br>
 🌱 Learning Next.js and improving my React skills.<br>
@@ -24,10 +24,15 @@ Hello there! I'm Anik Sarkar, a passionate Frontend Developer
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)
 
 ### stats
-***
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anik-Sarkar-01&theme=github-dark-blue&cache-bust=1"/>
+</a>
+</p>
+
 
 ### Let's Connect:
 ***
