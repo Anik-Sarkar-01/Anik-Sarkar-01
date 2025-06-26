@@ -1,7 +1,7 @@
 <!-- About me -->
 <div align="center">
-<h1>👋 Hi, I'm Anik Sarkar</h1>
-<h4>A passionate web enthusiast dedicated to crafting clean, responsive, and user-friendly web applications that transform visions into digital realities.</h4>
+<h1>👋 Hi there, I'm Anik Sarkar!</h1>
+<h3>A passionate web enthusiast dedicated to crafting clean, responsive, and user-friendly web applications that transform visions into digital realities.</h3>
 <!-- Social connections -->
 <div align="center">
 
