@@ -40,3 +40,6 @@ ___
 [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://facebook.com/beinganik.87)
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anik-sarkar-nits) -->
+
+
+![snake gif](https://github.com/Anik-Sarkar-01/Anik-Sarkar-01/blob/output/github-snake-dark.svg)
