@@ -20,7 +20,7 @@
 <!-- Tech Stack -->
 <div align="center">
 
-### 💻 Tech Toolbox
+### 💻 Tech Stack
 
 #### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -64,11 +64,9 @@
 
 </div>
 
-
 <!-- Snake Animation -->
 <div align="center">
 
-### 🐍 Snake Contributions Animation
 ![snake gif](https://github.com/Anik-Sarkar-01/Anik-Sarkar-01/blob/output/github-snake-dark.svg)
 
 </div>
