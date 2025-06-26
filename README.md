@@ -12,8 +12,8 @@
 
 ### Connect with Me
 
-[![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/beinganik.87) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anik-sarkar-cs)
+[![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/beinganik.87) 
 [![Email](https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniksarkar.cs@gmail.com)
 
 
