@@ -5,6 +5,7 @@
 ### A computer science graduate and a  web enthusiast dedicated to crafting clean, responsive, and user-friendly web applications that transform visions into digital realities.
 
 </div>
+<hr>
 
 <!-- Social Connections -->
 <div align="left">
@@ -21,9 +22,8 @@
 <!-- Tech Stack -->
 <div align="left">
 
-### Tech Stack
+### When I code I rely on
 
-<hr>
 
 #### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,7 +57,6 @@
 <div align="left">
 
 ### My GitHub Contributions
-<hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" width="55%" />
 <br>
