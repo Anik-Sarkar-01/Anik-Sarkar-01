@@ -9,9 +9,8 @@
 <!-- Social Connections -->
 <div align="left">
 
-### Connect with Me
+#### Connect with Me
 
----
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beinganik.87) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anik-sarkar-cs) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniksarkar.cs@gmail.com)
@@ -23,7 +22,8 @@
 <div align="left">
 
 ### Tech Stack
----
+
+<hr>
 
 #### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,7 +57,7 @@
 <div align="left">
 
 ### My GitHub Contributions
----
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" width="55%" />
 <br>
