@@ -29,7 +29,7 @@
 
 
 ---
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Anik-Sarkar-01&icon=0&color=6)](https://visitcount.itsvg.in)
+<!-- [![Visitor Count](https://visitcount.itsvg.in/api?id=Anik-Sarkar-01&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
