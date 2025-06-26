@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <!-- Social Connections -->
 <div align="center">
 
@@ -18,7 +16,6 @@
 
 </div>
 
----
 
 <!-- Tech Stack -->
 <div align="center">
@@ -53,7 +50,6 @@
 
 </div>
 
----
 
 <!-- Stats -->
 <div align="center">
@@ -68,7 +64,6 @@
 
 </div>
 
----
 
 <!-- Snake Animation -->
 <div align="center">
