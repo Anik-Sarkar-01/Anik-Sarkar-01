@@ -2,7 +2,7 @@
 <div align="left">
 
 # 👋 Hi there, I'm Anik Sarkar!
-### A passionate web enthusiast dedicated to crafting clean, responsive, and user-friendly web applications that transform visions into digital realities.
+### A computer science graduate and a  web enthusiast dedicated to crafting clean, responsive, and user-friendly web applications that transform visions into digital realities.
 
 </div>
 
