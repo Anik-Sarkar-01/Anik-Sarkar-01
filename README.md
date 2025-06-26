@@ -1,5 +1,5 @@
 <!-- About Me -->
-<div align="center">
+<div align="left">
 
 # 👋 Hi there, I'm Anik Sarkar!
 ### A passionate web enthusiast dedicated to crafting clean, responsive, and user-friendly web applications that transform visions into digital realities.
@@ -7,7 +7,7 @@
 </div>
 
 <!-- Social Connections -->
-<div align="center">
+<div align="left">
 
 ### Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beinganik.87) 
@@ -18,7 +18,7 @@
 
 
 <!-- Tech Stack -->
-<div align="center">
+<div align="left">
 
 ### Tech Stack
 
@@ -51,7 +51,7 @@
 
 
 <!-- Stats -->
-<div align="center">
+<div align="left">
 
 ### My GitHub Contributions
 
@@ -64,7 +64,7 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
+<div align="left">
 
 ![snake gif](https://github.com/Anik-Sarkar-01/Anik-Sarkar-01/blob/output/github-snake-dark.svg)
 
