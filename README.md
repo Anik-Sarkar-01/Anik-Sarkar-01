@@ -60,12 +60,10 @@
 ### My GitHub Contributions
 
 <div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="Anik's GitHub Stats" style="max-width: 100%; height: auto;" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=Anik-Sarkar-01&theme=vue_dark&hide_border=false" alt="Anik's GitHub Streak" style="max-width: 100%; height: auto;" />
   
   <br />
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anik-Sarkar-01&theme=vue_dark&hide_border=false" alt="Anik's GitHub Streak" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="Anik's GitHub Stats" style="max-width: 100%; height: auto;" />
   
   <br />
   
