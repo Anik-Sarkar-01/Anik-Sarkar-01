@@ -27,13 +27,13 @@
 
 
 #### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🛠 Backend
@@ -59,11 +59,20 @@
 
 ### My GitHub Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" width="55%" />
-<br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anik-Sarkar-01&theme=vue_dark&hide_border=false" width="50%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="36%" />
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="Anik's GitHub Stats" style="max-width: 100%; height: auto;" />
+  
+  <br />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anik-Sarkar-01&theme=vue_dark&hide_border=false" alt="Anik's GitHub Streak" style="max-width: 100%; height: auto;" />
+  
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-Sarkar-01&theme=vue-dark&hide_border=false&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" />
+
+</div>
+
 
 </div>
 
