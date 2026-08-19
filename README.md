@@ -56,7 +56,7 @@
 
 <div align="left">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anik-Sarkar-01&theme=vue_dark&hide_border=false" alt="Anik's GitHub Streak" style="max-width: 100%; height: auto;" />
+  <img src="https://streak-stats.demolab.com/?user=Anik-Sarkar-01&theme=vue_dark&hide_border=false" alt="Anik's GitHub Streak" style="max-width: 100%; height: auto;" />
 
   <br />
 
