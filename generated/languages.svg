@@ -134,22 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f1e05a; 
-  width: 90.211%;
-" class="progress-item"></span><span style="
-  background-color: #e34c26; 
-  width: 5.675%;
+  width: 85.912%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 1.977%;
+  width: 6.397%;
+" class="progress-item"></span><span style="
+  background-color: #e34c26; 
+  width: 5.402%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 1.950%;
+  width: 1.956%;
+" class="progress-item"></span><span style="
+  background-color: #336790; 
+  width: 0.150%;
 " class="progress-item"></span><span style="
   background-color: #f7931e; 
-  width: 0.107%;
+  width: 0.102%;
 " class="progress-item"></span><span style="
   background-color: #AA6746; 
-  width: 0.080%;
+  width: 0.076%;
+" class="progress-item"></span><span style="
+  background-color: #dea584; 
+  width: 0.005%;
 " class="progress-item"></span>
 </span>
 </div>
@@ -170,25 +176,9 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">90.21%</span>
+  <span class="percent">85.91%</span>
 </li>
 <li style="animation-delay: 300ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #e34c26;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">HTML</span>
-  <span class="percent">5.68%</span>
-</li>
-<li style="animation-delay: 450ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -202,7 +192,23 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">1.98%</span>
+  <span class="percent">6.40%</span>
+</li>
+<li style="animation-delay: 450ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #e34c26;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">HTML</span>
+  <span class="percent">5.40%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -218,9 +224,25 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">1.95%</span>
+  <span class="percent">1.96%</span>
 </li>
 <li style="animation-delay: 750ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #336790;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">PLpgSQL</span>
+  <span class="percent">0.15%</span>
+</li>
+<li style="animation-delay: 900ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -234,9 +256,9 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Handlebars</span>
-  <span class="percent">0.11%</span>
+  <span class="percent">0.10%</span>
 </li>
-<li style="animation-delay: 900ms;">
+<li style="animation-delay: 1050ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -251,6 +273,22 @@ div.ellipsis {
   ></path></svg>
   <span class="lang">Solidity</span>
   <span class="percent">0.08%</span>
+</li>
+<li style="animation-delay: 1200ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #dea584;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Rust</span>
+  <span class="percent">0.00%</span>
 </li>
 
 
